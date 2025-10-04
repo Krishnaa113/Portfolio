@@ -200,7 +200,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/elearning1.jpg",
+    image: "/assets/projects/hehe.jpg",
     tags: [
       {
         id: 1,
