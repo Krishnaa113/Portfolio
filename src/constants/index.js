@@ -200,7 +200,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/hehe.jpg",
+    image: "/assets/projects/blazor-app.jpg",
     tags: [
       {
         id: 1,
